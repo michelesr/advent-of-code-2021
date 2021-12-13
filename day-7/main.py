@@ -1,5 +1,4 @@
 from collections import Counter
-from functools import reduce
 
 def get_cost(positions, position):
     cost = 0
